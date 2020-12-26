@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to reddit-informations-channel 👋</h1>
+<h1 align="center">Bienvenue sur l'explication de reddit-informations-channel 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/reddit-informations-channel" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/reddit-informations-channel.svg">
