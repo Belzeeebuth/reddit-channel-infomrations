@@ -44,7 +44,7 @@ module.exports = class RedditImage extends EventEmitter {
 
         let desc = body.data.description;
         let publicdescription = body.data.public_description
-        let created = dateformat(body.data.created);
+        let created = new Date(body.data.created*1000);
 
         const embed = new MessageEmbed()
         .setTitle(`*Règle du channel ${options.ruleschannel} !*`)
