@@ -1,0 +1,23 @@
+{
+  "name": "reddit-informations-channel",
+  "version": "2.5.2",
+  "description": "Un module pour avoir des informations sur un channel reddit",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "reddit-image",
+    "discord-reddit",
+    "discord"
+  ],
+  "author": "belzebuth",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "events": "^3.2.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.6"
+  }
+}
