@@ -54,6 +54,7 @@ let channelReddit = args.join(" ");
 👤 **Belzébuth**
 
 * Github: [@belzeeebuth](https://github.com/Belzeeebuth)
+* Discord : ⛧𝕭𝖊𝖑𝖟𝖊𝖇𝖚𝖙𝖍 ⸸#2050
 
 ## Montrez votre support
 
